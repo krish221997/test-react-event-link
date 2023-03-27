@@ -1,6 +1,6 @@
 {
-  "name": "react-event-link",
-  "version": "0.1.0",
+  "name": "test-react-event-link",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -40,5 +40,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/index.ts",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krish221997/test-react-event-link.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Krish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krish221997/test-react-event-link/issues"
+  },
+  "homepage": "https://github.com/krish221997/test-react-event-link#readme"
 }
